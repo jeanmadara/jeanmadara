@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jean Correa</h1>
-<h3 align="center">A passionate Full-stack developer from Ecuador</h3>
+<h3 align="center">A Full-stack developer from Ecuador</h3>
 
 - 🔭 I’m currently working on [Arts of the Working Class](https://www.artsoftheworkingclass.org/)
 
 - 📝 I wrote a article on [Revista F-ILIA](https://ilia.uartes.edu.ec/f-ilia/texturas/de-sonic-pi-a-instrumentos-musicales-precolombinos-explorando-nuevas-formar-de-desarrollar-experiencias-sonoras-creativas/)
 
-- 💬 Ask me about **sonic pi, processing, live coding**
+- 💬 Ask me about **sonic pi, processing, p5.js, live coding**
 
-- 📫 How to reach me **jean_car1993@hotmail.com**
+- 📫 How to reach me **jeancorrea.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
