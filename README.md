@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean Carlos Correa</h1>
+<h1 align="center">Hi 👋, I'm Jean Correa</h1>
 <h3 align="center">A passionate Full-stack developer from Ecuador</h3>
 
 - 🔭 I’m currently working on [Arts of the Working Class](https://www.artsoftheworkingclass.org/)
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/jeanmadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanmadara" height="30" width="40" /></a>
 </p>
 
-
+<br/>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
