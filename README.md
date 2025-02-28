@@ -14,8 +14,9 @@
 <a href="https://twitter.com/jeanmadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeanmadara" height="30" width="40" /></a>
 <a href="https://instagram.com/jeanmadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeanmadara" height="30" width="40" /></a>
 </p>
-
 <br/>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
